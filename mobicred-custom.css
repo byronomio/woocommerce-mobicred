@@ -1,0 +1,19 @@
+#mobicred-container {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 1rem;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-content: flex-start;
+}
+
+#mobicred-container img {
+  max-width: 100px;
+  margin-right: 1rem;
+  margin-bottom: 10px;
+}
+
+#mobicred-installment {
+  font-weight: bold;
+}
