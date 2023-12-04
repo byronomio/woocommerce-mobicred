@@ -7,7 +7,7 @@ jQuery(document).ready(function($) {
   }
 
   $('<img src="' + mobicredOptions.logoUrl + '" alt="MobiCred Logo" />').prependTo('#mobicred-container');
-var initialPrice = parseFloat($('.single-product .summary .price .woocommerce-Price-amount:last bdi').text().replace(/[^0-9\.]+/g, ""));
+var initialPrice = parseFloat($('.price .woocommerce-Price-amount:last bdi').text().replace(/[^0-9\.]+/g, ""));
 
 
   updateMobiCredInstallment(initialPrice);
