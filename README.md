@@ -7,7 +7,7 @@ This is a WordPress plugin that enables WooCommerce online stores to display Mob
 ## Installation
 1. Upload the plugin files to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
-3. Go to WooCommerce -> MobiCred to configure the plugin.
+3. Go to WooCommerce -> Settings -> MobiCred Tab to configure the plugin.
 
 ## Support
 For support, please create an issue on this GitHub repository.
